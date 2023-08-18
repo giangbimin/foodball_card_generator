@@ -22,3 +22,5 @@ b2: tải hình về đổi tên thành player.png và dán đè vào thư mục
 - `hero.png` đi kèm màu `#FFFFFF`
 - `evo.png` đi kèm màu `#FFFFFF`
 - `black.png` đi kèm màu `#FFFFFF`
+
+![preview](preview.png)
