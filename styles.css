@@ -38,7 +38,7 @@ body:after {
   width: 100%;
   height: 100vh;
   min-height: 700px;
-  background: url("bg.jpg") no-repeat center center/cover;
+  background: url("images/bg.jpg") no-repeat center center/cover;
   filter: blur(8px);
   -webkit-filter: blur(8px);
 }
@@ -51,7 +51,7 @@ body:after {
   position: relative;
   width: 300px;
   height: 485px;
-  background-image: url("cardbg/gold.png");
+  background-image: url("images/card_bg/titan.png");
   background-position: center center;
   background-size: 120% 110%;
   background-repeat: no-repeat;
@@ -67,7 +67,7 @@ body:after {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  color: #46390C;
+  color: #fce398;
   padding: 0 1.5rem;
 }
 
@@ -80,11 +80,14 @@ body:after {
 }
 
 .fut-player-card .player-card-top .player-master-info .player-rating {
-  font-size: 2rem;
+  font-size: 55px;
+  font-weight: 600;
+  margin-bottom: 14px;
 }
 
 .fut-player-card .player-card-top .player-master-info .player-position {
   font-size: 1.4rem;
+  font-weight: 500;
 }
 
 .fut-player-card .player-card-top .player-master-info .player-nation {
@@ -105,6 +108,7 @@ body:after {
   display: block;
   width: 2.1rem;
   height: 40px;
+  background: rgb(255 255 255 / 50%);
 }
 
 .fut-player-card .player-card-top .player-master-info .player-club img {
@@ -158,7 +162,7 @@ body:after {
 .fut-player-card .player-card-bottom .player-info {
   display: block;
   padding: 0.3rem 0;
-  color: #46390C;
+  color: #fce398;
   width: 90%;
   margin: 0 auto;
   height: auto;
@@ -192,7 +196,7 @@ body:after {
 }
 
 .fut-player-card .player-card-bottom .player-info .player-features .player-features-col {
-  border-right: 1px solid #46390C;
+  border-right: 1px solid #fce398;
   padding: 0 20px;
 }
 
