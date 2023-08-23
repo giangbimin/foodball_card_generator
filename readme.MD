@@ -1,5 +1,11 @@
 # FIFA CARD GENERATOR
+
 ![preview](preview.png)
+
+```
+themes list: magna gold titan flat hero evo black orange fighter purple blue champ yellow
+```
+
 
 ## Vietnamese version
 ### Hướng dẫn sử dụng
