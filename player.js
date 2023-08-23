@@ -14,11 +14,11 @@ const PLAYER_ATTRS = {
         point: 70
       },
       {
-        name: "Câu Giờ",
+        name: "Nhanh nhẹn",
         point: 100
       },
       {
-        name: "Gáy Bẩn",
+        name: "Kỹ thuật",
         point: 100
       }
     ],
@@ -46,7 +46,7 @@ const PLAYER_ATTRS = {
         point: 100
       },
       {
-        name: "Chơi Điếm",
+        name: "Câu Giờ",
         point: 100
       }
     ]

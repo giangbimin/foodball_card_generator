@@ -87,15 +87,15 @@ body:after {
 .fut-player-card .player-card-top .player-master-info .player-position {
   font-size: 1.4rem;
   font-weight: 500;
-  margin-bottom: 5px;
   text-shadow: 1px 1px 0px rgba(0,0,0, 0.2);
+  margin-bottom: 5px;
 }
 
 .fut-player-card .player-card-top .player-master-info .player-nation {
   display: block;
   width: 20px;
   margin: 0.3rem 0;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .fut-player-card .player-card-top .player-master-info .player-nation img {
