@@ -1,4 +1,10 @@
 const THEMES = {
+  magna: {
+    background: "magna.png",
+    color: "#FFFFFF",
+    logo: "images/vozer_white.png",
+    extra: "#FFFFFF"
+  },
   gold: {
     background: "gold.png",
     color: "#46390C",
@@ -34,5 +40,41 @@ const THEMES = {
     color: "#FFFFFF",
     logo: "images/vozer_white.png",
     extra: "#FFFFFF"
-  }
+  },
+  orange: {
+    background: "orange.png",
+    color: "#fce398",
+    logo: "images/vozer_white.png",
+    extra: "#fce398"
+  },
+  fighter: {
+    background: "fighter.png",
+    color: "#fce398",
+    logo: "images/vozer_black.png",
+    extra: "#fce398"
+  },
+  purple: {
+    background: "purple.png",
+    color: "#FFFFFF",
+    logo: "images/vozer_white.png",
+    extra: "#FFFFFF"
+  },
+  blue: {
+    background: "blue.png",
+    color: "#000000",
+    logo: "images/vozer_white.png",
+    extra: "#000000"
+  },
+  champ: {
+    background: "champ.png",
+    color: "#05F1FF",
+    logo: "images/vozer_white.png",
+    extra: "#05F1FF"
+  },
+  yellow: {
+    background: "yellow.png",
+    color: "#FFFFFF",
+    logo: "images/vozer_white.png",
+    extra: "#FFFFFF"
+  },
 };

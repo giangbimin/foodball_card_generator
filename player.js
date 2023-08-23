@@ -1,5 +1,5 @@
 const PLAYER_ATTRS = {
-  theme: "titan",
+  theme: "magna",
   position: "HLV",
   name: "THẦY ÔNG NỘi",
   avatar: "images/player.png",
